@@ -18,4 +18,5 @@
    git clone git@github.com:gdaudenbengoa/uheat-mhw-pytorch.git
 
    ## Author
+   **AUTHOR**
 Gonzalo Daudén
